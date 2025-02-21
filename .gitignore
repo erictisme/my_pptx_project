@@ -42,4 +42,6 @@ venv.bak/
 
 # Project specific
 *.pkl
-*.log 
+*.log venv/
+__pycache__/
+.env
