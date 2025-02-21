@@ -1,0 +1,26 @@
+[
+  {
+    "template": "TitleSlide",
+    "title": "Welcome to the Workshop",
+    "subtitle": "Building Next-Generation Solutions"
+  },
+  {
+    "template": "BulletSlide",
+    "title": "Agenda",
+    "bullets": [
+      "Introduction",
+      "Key Topics",
+      "Q&A Session"
+    ]
+  },
+  {
+    "template": "SectionHeader",
+    "header": "Deep Dive into Challenges"
+  },
+  {
+    "template": "TwoColumnSlide",
+    "title": "Data Comparison",
+    "leftCol": "Data Set A: Historical Data",
+    "rightCol": "Data Set B: Forecast Data"
+  }
+]

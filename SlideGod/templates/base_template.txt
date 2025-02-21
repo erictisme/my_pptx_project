@@ -1,0 +1,89 @@
+# DECK METADATA
+## Basic Information
+DECK_ID: DK001
+VERSION: 1.0
+DATE: 2024-02-21
+
+## Client Information
+CLIENT: McKinsey
+INDUSTRY: Technology
+SUB_INDUSTRY: Cloud Services
+REGION: Global
+
+## Purpose & Context
+PRIMARY_PURPOSE: Strategy Review
+SECONDARY_PURPOSE: Digital Transformation
+PROJECT_PHASE: Initial Assessment
+TIMELINE: Q1 2024
+METHODOLOGY: Three Horizons Framework
+
+## Style & Tone
+STYLE: Concise & Data-driven
+TONE: Authoritative
+COMPLEXITY: High
+AUDIENCE: C-Suite
+LENGTH: 15-20 slides
+
+## Special Requirements
+CONFIDENTIALITY: High
+FOCUS_AREAS: 
+  - Cloud Migration
+  - AI Integration
+  - Cost Optimization
+METRICS_FOCUS: Revenue, Market Share, ROI
+
+# ACTION TITLES
+## Opening Section
+[EXECUTIVE_SUMMARY]
+- Unlock $5B Cloud Market Opportunity by 2025
+- Drive 3X Growth Through AI-First Strategy
+- Capture 40% Market Share via Platform Innovation
+
+## Problem Analysis
+[PROBLEM_STATEMENT]
+- Address $2B Revenue Gap in Cloud Services
+- Navigate 35% Market Disruption from AI
+- Resolve Critical Talent Shortage (80% Gap)
+
+## Strategic Response
+[SOLUTION]
+- Accelerate Cloud Migration Through 3-Wave Strategy
+- Transform Customer Experience via Digital-First Model
+- Build Next-Gen AI Capabilities by 2025
+
+## Execution Plan
+[IMPLEMENTATION]
+- Deploy MVP Across 5 Key Markets in 90 Days
+- Unlock $500M Value Through Agile Delivery
+- Scale Operations 3X While Reducing Costs 20%
+
+## Value Creation
+[IMPACT]
+- Drive 45% Margin Improvement by 2025
+- Capture 60% Market Share in Premium Segment
+- Generate $1.5B Additional Annual Revenue
+
+# STYLE NOTES
+## Title Construction
+- Start with strong action verbs
+- Include specific metrics where possible
+- Use connecting words (through, via, by)
+- Keep under 8 words
+- Focus on business impact
+
+## Common Patterns
+STRONG_VERBS:
+  - Accelerate, Drive, Transform, Unlock, Capture
+  - Scale, Deploy, Generate, Build, Navigate
+
+CONNECTING_WORDS:
+  - through, via, by, using, with
+  - across, towards, into
+
+METRIC_TYPES:
+  - Percentages (%, bps)
+  - Currency ($M, $B)
+  - Multipliers (2X, 3X)
+  - Time periods (90 days, by 2025)
+
+# END TEMPLATE 

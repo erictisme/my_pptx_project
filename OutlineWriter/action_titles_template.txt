@@ -1,0 +1,683 @@
+# DECK METADATA
+DECK_ID: DK001
+CLIENT: McKinsey
+INDUSTRY: Transportation
+SUB_INDUSTRY: Public Transit
+REGION: North America
+PURPOSE: COVID-19 Impact Analysis
+DATE: 2024-02-21
+
+# DECK CHARACTERISTICS
+DECK_TYPE: Project Presentation
+CONTENT_STYLE: Detailed Analysis
+TITLE_STYLE: Sentence-like action statements
+DEPTH_LEVEL: High detail
+AUDIENCE: Project team, Client stakeholders
+KEY_COMPONENTS:
+- Methodology explanations
+- Data analysis
+- Historical comparisons
+- Impact assessments
+- Implementation guidance
+
+# TITLE PATTERNS
+STRUCTURE: [Action/Finding] + [Supporting Detail]
+EXAMPLES:
+- "Due to COVID-19 ridership has fallen drastically across all transit systems..."
+- "In the 08/09 financial crisis, urban transit ridership followed a 'U' shape..."
+- "Overview of revenue components and forecast approach"
+
+# CONTENT PATTERNS
+HIERARCHY:
+- Main point (Complete sentence)
+- Supporting data points (Bullet form)
+- Detailed explanations (Sub-bullets)
+- Methodology notes
+- Source citations
+
+# VISUAL PATTERNS
+COMMON_TYPES:
+- Data tables with nested elements
+- Time series graphs
+- Comparison charts
+- Methodology flowcharts
+- Source documentation
+
+# LAYOUT PATTERNS
+PREFERRED:
+- Standard title + content (For detailed explanations)
+- Two-column (For methodology breakdowns)
+- 1/3 on left hand side (LHS) with 2/3 on right hand side (RHS), or 2/3 on LHS and 1/3 on RHS is common in this deck
+- Complex tables (For data comparisons)
+- Timeline views (For historical analysis)
+
+# EXTRACTED CONTENT
+[SLIDE 1-4]
+CONTENT:
+• Legal stuff not related to content on page
+
+[SLIDE 5]
+LAYOUT: Standard title + content
+TITLE: "Contents"
+
+CONTENT:
+• Fare and toll revenue methodology
+• Non-fare revenue methodology
+• Additional operating expense methodology
+• Operating gap
+• Impact of filling the gap
+
+
+VISUALS:
+• None (text-only, list format)
+
+[SLIDE 6]
+LAYOUT: Standard title + content
+TITLE: "Overview of revenue components and forecast approach"
+
+CONTENT:
+• Fare and toll revenue
+– Applied different scenarios of how long the current state of social distancing will last based on actuals, and what ridership/mobility ramp-up might look like after that. For those scenarios, considered the impact of epidemiology, policy effects, and behavioral changes
+– Ridership/traffic curves
+
+• Non-fare revenue
+– Identified five archetypes of tax or subsidy revenue – Employment, Real Estate and Mortgages, Sales, Business Income, and Mobility – each with a distinct driver. Created a multiplier for each archetype, which was applied to each source to forecast 2020 revenue
+– Tax-specific change profiles
+
+• Focus of this chapter
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only)
+
+[SLIDE 7]
+LAYOUT: Standard title + content
+TITLE: "Guiding questions for fare methodology"
+
+CONTENT:
+• Although different assets may behave differently, e.g., commuter rail may have a slower ramp-up than bus given that commuter rail riders could be more likely to work from home for longer or to use a personal vehicle, some early sensitivity testing was conducted and showed that additional precision from a bottom-up build did not meaningfully impact the aggregate number
+
+• Guiding questions → Resulting actions for methodology
+
+– What level of ridership are we going to, i.e., what's the 'new normal' level in a period of economic decline/social distancing?
+• Looked at historical experience for what "new normal" looks like in an economic crisis. Began with ridership and toll recovery from the trough during the Great Recession, then took an additional haircut to reflect a number of factors that could continue to suppress demand (e.g., increased prevalence of work from home)
+
+– What will the ramp up be like to get from point 1 to point 2, and when will it start?
+• Looked at ramp-up curves in health/safety/security crises (e.g., 9/11, SARS) as well as economic crises (e.g., Great Recession) to understand how demand has reacted to past crises, and shaped a potential curve for a dual health/safety and economic crisis
+
+– How will this ramp up be interrupted by a potential resurgence of the virus in Q4 2020?
+• Modeled two scenarios of potential interruption by a resurgence, one where a second wave would result in something similar to present-day physical distancing conditions (in addition to seasonal flu), and a second more positive scenario factoring in the impact of better preparedness which would reduce the trough as currently experienced
+
+– What is current ridership during intense social distancing (e.g., the current period)?
+• Used actuals provided by the MTA and compared across systems to calibrate. Ridership for most systems is down dramatically (~90%).
+
+• Current as of 4/28/20
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text in bullet-table form)
+[SLIDE 8]
+LAYOUT: Standard title + content
+TITLE: "Due to COVID-19 ridership has fallen drastically across all transit systems…
+Commuter and heavy rail have been affected particularly severely"
+
+CONTENT:
+• Greatest reported reduction in ridership vs. last month or last year (percent reduction in ridership)
+– Cites multiple data sources (e.g., Chicago Tribune, Eno Center for Transportation, etc.)
+– Lists examples like MARTA, WMATA, MBTA Boston, BART SF, NJ TRANSIT, NYC Transit, MTA LIRR, MTA Metro-North, etc.
+– Ridership reductions range ~80-99% depending on the system and date of measurement
+
+• Effects on public transit systems ridership
+– Ridership has fallen across systems across the US and the globe
+– Due to increased work from home policies, commuter rail systems are affected particularly strongly
+– Government mandates have also had strong effects in key geographies
+
+• Footnote references: Data collected April 30, 2020
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• A bar chart or table (implied) showing % declines for various transit systems
+• Color-coded sections for different transit systems (e.g., Commuter Rail, Bus, Heavy Rail, Mix) but no detailed legend text provided beyond "Commuter Rail," "Bus," "Heavy Rail," "Mix"
+
+[SLIDE 9]
+LAYOUT: Standard title + content
+TITLE: "…and has remained low since this sharp drop
+Initial declines led to persistently low ridership"
+
+CONTENT:
+• Graph or chart references showing % decline in ridership, public reports starting in early/mid-March
+– "President Trump declares a national emergency" noted as a timeline event
+– Sustained decline: Transit app data shows use at persistently low levels through April
+
+• Example bullet points:
+– Initial decline: ridership fell swiftly and sharply across systems starting the week of March 9th
+– Sustained decline: Transit app data shows use at persistently low levels through April
+
+• Sources cited: The New York Times, Bloomberg, The Boston Herald, The Verge, CBS San Francisco, etc.
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• Two line graphs comparing ridership decline or app usage over time in March-April
+• Color coding or labeled lines for different cities/systems (e.g., BART SF, MBTA Boston, NJ TRANSIT, Metro-North, LIRR)
+
+[SLIDE 10]
+LAYOUT: Standard title + content
+TITLE: "In the 08/09 financial crisis, urban transit ridership followed a "U" shape…"
+
+CONTENT:
+• Historical data from the National Transit Database, Bureau of Labor Statistics
+• Mention of 2008-2009 Ridership changes for heavy rail, bus, light rail, commuter rail in various metro areas
+• Key bullet points:
+– Financial crisis showed a long-term impact on transit ridership
+– There was a drop of up to ~20% across systems correlating with the peak unemployment rate in the US
+– The impact was felt over a long period (a "U" vs. "V" shaped recovery)
+
+• Graph referencing months before/after crisis start (Lehman Brothers crash, Sept 2008), with ridership and unemployment data
+
+[SLIDE 11]
+LAYOUT: Standard title + content
+TITLE: "How COVID-19 may be different than past health or safety shocks
+Considerations for modeling a COVID-19 curve"
+
+CONTENT:
+• Current as of 4/28/20
+• Four bullet considerations for the length of the crisis and potential resurgence:
+– This does not appear to be a point in time crisis like 9/11 but an extended multi-month and possibly multi-year event until the virus is contained and therapeutics and vaccines are developed.
+– As of this date, it is widely expected by public health officials that as social isolation measures are lifted, infection rates will increase.
+– It is unclear what the impact of seasonality, if any, may be on the coronavirus spread.
+– Depending on multiple factors including herd immunity, human behaviors, hospital capacity readiness, and policies in the fall, a second major wave could be experienced, potentially coinciding with peak flu season.
+
+• Not Exhaustive
+– Length of crisis
+– Potential for resurgence
+– Recovery pattern
+– Seasonality
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• No specific chart, but textual callouts with bullet points
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+[SLIDE 11]
+LAYOUT: Standard title + content
+TITLE: "How COVID-19 may be different than past health or safety shocks
+Considerations for modeling a COVID-19 curve"
+
+CONTENT:
+• Current as of 4/28/20
+• Four bullet considerations for the length of the crisis and potential resurgence:
+– This does not appear to be a point in time crisis like 9/11 but an extended multi-month and possibly multi-year event until the virus is contained and therapeutics and vaccines are developed.
+– As of this date, it is widely expected by public health officials that as social isolation measures are lifted, infection rates will increase.
+– It is unclear what the impact of seasonality, if any, may be on the coronavirus spread.
+– Depending on multiple factors including herd immunity, human behaviors, hospital capacity readiness, and policies in the fall, a second major wave could be experienced, potentially coinciding with peak flu season.
+
+• Not Exhaustive
+– Length of crisis
+– Potential for resurgence
+– Recovery pattern
+– Seasonality
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• No specific chart, but textual callouts with bullet points
+
+[SLIDE 12]
+LAYOUT: Standard title + content
+TITLE: "Two ridership scenarios were developed…"
+
+CONTENT:
+• Graph is described as potential scenarios for ridership through the end of 2020, showing % of base level ridership on the y-axis and months (Jan–Dec) on the x-axis. Two lines:
+– Scenario 1: Earlier containment and recovery
+– Scenario 2: Delayed containment and recovery
+• Ridership is shown dropping dramatically, with partial recovery and potential resurgence.
+• Annualized fare-based revenue impact:
+– Scenario 1: ~ -60%
+– Scenario 2: ~ -75%
+
+• Key bullet points:
+– The scenarios combine characteristics of health and economic crises.
+– Major assumptions underlying the difference in scenarios:
+• Ramp-up after lockdown: Scenario 2 features a relatively slower change from current ridership levels, factoring in more countervailing forces (e.g., personal preferences away from transit, increased WFH).
+• Resurgence in the fall: both scenarios include a potential second wave, but Scenario 2’s resurgence is more dire.
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• A line chart with two different curves for Scenario 1 vs. Scenario 2.
+
+[SLIDE 13]
+LAYOUT: Standard title + content
+TITLE: "Resulting fare revenue assumptions and modeling
+% of typical ridership in a given month"
+
+CONTENT:
+• Assumptions
+– Ridership as % of baseline in social distancing period: 10%
+– Trough in Great Recession vs. trough in COVID-19, plus “haircut” for additional suppressing factors
+– Annual fare revenue from 2020 Feb Plan: $6.49B (used for reference)
+– Modeling monthly ridership scenarios from Mar–Dec
+
+• Two scenarios (Scenario 1: Moderate, Scenario 2: Severe), with numeric tables showing monthly ridership and monthly cash flow.
+– Scenario 1 revenue loss shown as ~$4.89B for March–December 2020
+– Scenario 2 revenue loss shown as ~$3.82B in the remainder of 2020’s budget, or up to 40% of annual. (Slide displays two blocks with different monthly breakdowns.)
+
+• Example excerpt from the table for Scenario 1:
+– “Ridership in remainder of 2020: 55% (May), 10% (June), etc.” (numbers vary by scenario)
+– “Revenue loss: $X.XXB”
+
+• Current as of 4/17
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• A small monthly table of ridership percentages and monthly revenue/cash flow for each scenario.
+
+[SLIDE 14]
+LAYOUT: Standard title + content
+TITLE: "Two toll scenarios were developed based on current data and traffic projections
+Toll revenue followed many of the same underlying assumptions as ridership"
+
+CONTENT:
+• Graph with two lines (Scenario 1: earlier containment and recovery, Scenario 2: delayed containment and recovery) from Jan–Dec, percent of base level traffic.
+• Bullet points:
+– Modeled traffic down to ~35% in lockdown, with a slightly longer “lockdown” for Scenario 2
+– Similar to ridership model, potential “resurgence” in Q4
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/17
+
+VISUALS:
+• Line chart of traffic volume vs. month in 2020
+
+[SLIDE 15]
+LAYOUT: Standard title + content
+TITLE: "Resulting toll revenue assumptions and modeling
+% of typical ridership in a given month"
+
+CONTENT:
+• Similar approach to Slide 13 but for toll revenue.
+• Month-by-month breakdown for Scenario 1 vs. Scenario 2, showing:
+– Trough % baseline, revenue loss calculations, monthly ridership or traffic
+– Concludes with an annual toll revenue difference in the range of (0.8) to (1.0) billion
+
+• Current as of 4/17
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• A small table of monthly percentages and revenue deltas
+
+[SLIDE 16]
+LAYOUT: Standard title + content
+TITLE: "Using similar considerations, the projections for fare and tolls were extended through Q1 2022
+Ridership and traffic projections as % of monthly budget"
+
+CONTENT:
+• Two graphs (one for ridership, one for traffic) from 2020 through Q1 2022, with Scenario 1 and Scenario 2 lines.
+• Additional bullet points:
+– Scenario 1: Vaccine first available might arrive earlier, leading to partial or more stable recovery in 2021.
+– Scenario 2: Vaccine not commercially available until later, leading to continued suppressed ridership and potential second or third wave impacts.
+– Mentions seasonal influenza in 2021–22.
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/24
+
+VISUALS:
+• Two line charts from early 2020 to Q1 2022, indicating a partial recovery curve for Scenario 1 and a lower, more protracted curve for Scenario 2.
+
+[SLIDE 17]
+LAYOUT: Standard title + content
+TITLE: "Contents"
+
+CONTENT:
+• Fare and toll revenue methodology
+• Non-fare revenue methodology
+• Additional operating expense methodology
+• Operating gap
+• Impact of filling the gap
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only)
+
+[SLIDE 18]
+LAYOUT: Standard title + content
+TITLE: "Overview of revenue components and forecast approach"
+
+CONTENT:
+• Fare and toll revenue
+– Applied different scenarios of how long current social distancing will last, plus ridership ramp-up
+– Ridership/traffic curves
+
+• Non-fare revenue
+– Identified five archetypes of tax or subsidy revenue – Employment, Real Estate and Mortgages, Sales, Business Income, and Mobility – each with a distinct driver
+– Tax-specific change profiles
+
+• Focus of this chapter
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only, mostly bullet points)
+
+[SLIDE 19]
+LAYOUT: Standard title + content
+TITLE: "Approach to forecasting tax and subsidy revenue (1/2)"
+
+CONTENT:
+• Table or bullet structure describing “Archetype,” “Applicable MTA taxes,” and “Methodology for multiplier calculation.”
+• Archetypes mentioned:
+– Mobility (PMT, FHV surcharge, etc.)
+– Employment (Payroll Mobility Tax)
+– Sales (MMTOA District Sales Tax, etc.)
+– Business Income (Corp franchise tax, etc.)
+– Real Estate + Mortgages (MRT 1 + 2, Urban tax, Mansion Tax)
+– Other (stated as no or minimal change, e.g., “No or minimal anticipated change”)
+
+• Note that “Other” includes PBT (Motor vehicle fees), CBDTP, etc.
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/17
+
+VISUALS:
+• Possibly a table with columns listing Archetypes, Methodologies, and relevant MTA taxes.
+
+[SLIDE 20]
+LAYOUT: Standard title + content
+TITLE: "Approach to forecasting tax and subsidy revenue (2/2)"
+
+CONTENT:
+• More detail on each archetype: mobility, employment, real estate + mortgages, business income, and sales.
+• “What you need to believe” bullet points for each approach.
+– For example, the real estate line: “~40% y.o.y. drop from the first year of the Great Recession applied to relevant taxes.”
+– For business income: “Used Great Recession elasticity for corporate income tax vs. GDP.”
+– For sales: “Assume % drop in GDP translates similarly to sales tax base.”
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/17
+
+VISUALS:
+• Possibly a grid or bullet layout summarizing these points
+
+[SLIDE 21]
+LAYOUT: Standard title + content
+TITLE: "Economic scenario for change in employment used in the analysis"
+
+CONTENT:
+• Bar or line chart showing ~-18% to -10% change in employment in Q2/Q3 2020 vs. Q4 2019.
+• Explanation that changes in wages and salaries from employment in NY counties served by MTA are accounted for.
+• Mentions weighting industries by wage levels and factoring in partial furloughs.
+• “Current as of 4/17”
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• Chart labeled “Change in Employment relative to Q4 2019” with a range from 0 down to -18%. Possibly a bar chart by quarter in 2020.
+
+[SLIDE 22]
+LAYOUT: Standard title + content
+TITLE: "Historical real estate tax performance in the Great Recession
+$ Millions of tax received and % change from previous year"
+
+CONTENT:
+• Table showing MRT 1 & 2, Urban tax, Real Property Transfer Tax from 2007–2012.
+• Mentions a ~40% drop in 2007–08, further declines in 2008–09.
+• Bullet points:
+– First year of the Great Recession was used to inform the first-year impact of the current crisis.
+– Magnitude of current crisis is larger, but it’s not a “housing crisis,” so used net assumptions.
+
+• Source: MTA historical tax data
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• A data table with columns labeled 2007, 2008, 2009, 2010, etc., and row entries for MRT 1, MRT 2, Urban Mortgage Recording Tax, Real Property Transfer Tax, etc.
+
+[SLIDE 23]
+LAYOUT: Standard title + content
+TITLE: "Economic scenario for change in GDP (1/2)
+Macroeconomic scenarios"
+
+CONTENT:
+• Labeled “Preliminary”
+• Slide references that details will follow, possibly showing different scenario lines for GDP growth or decline.
+• “(4/28/20) Please see disclaimer on page 3. Not intended as a prediction or forecast.”
+
+VISUALS:
+• Possibly a placeholder or partial chart referencing future pages for more detail
+
+[SLIDE 24]
+LAYOUT: Standard title + content
+TITLE: "Economic scenario for change in GDP (2/2)
+Scenario A1 used for analysis"
+
+CONTENT:
+• Labeled “Preliminary” and mentions scenario A1 used for analysis.
+• Possibly references a range of GDP changes by quarter in 2020.
+• “3/4 (4/28/20) Please see disclaimer on page 3. … situation is changing daily.”
+
+VISUALS:
+• Possibly a bullet or chart with quarterly GDP deltas
+
+[SLIDE 25]
+LAYOUT: Standard title + content
+TITLE: "Mobility-related tax methodology follows toll projections"
+
+CONTENT:
+• Graph with traffic development through 2020 for reference.
+• Key bullet: “Tolls were assumed to be an indicator for relative performance of mobility-driven taxes (e.g., PMT).”
+• Scenarios 1 and 2.
+• “Current as of 4/17”
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• Same or similar line chart as the toll scenario slides, referencing partial or full recovery
+
+[SLIDE 26]
+LAYOUT: Standard title + content
+TITLE: "Resulting non-fare revenue modeling for 2020 by groups of taxes"
+
+CONTENT:
+• Table listing each tax group (Mobility, Employment, Real Estate, Business income, Sales, Other, No change, Total). Original 2020 Budget (e.g., 1.9B, 1.6B, etc.) vs. Projected losses in 2020, $B, and Percentage decrease.
+• Estimated total non-fare revenue loss for 2020 ~ (1.6) – (1.8) B.
+• Note: Non-fare revenue loss does not include impact of reduced transfers from toll revenue (those are in toll revenue losses).
+• “(4/28/20) Please see disclaimer on page 3.”
+• Current as of 4/17
+
+VISUALS:
+• Table with columns for “Tax group,” “Original 2020 Budget,” “Projected losses,” “Decrease projected in %.”
+
+[SLIDE 27]
+LAYOUT: Standard title + content
+TITLE: "Using similar considerations, the projections for non-fare revenue were extended through 2021"
+
+CONTENT:
+• Major assumptions for 2021 (Mobility, Employment, Real estate, Sales, Business income).
+• Potential further declines or slow recovery in 2021.
+• Bullet that total non-fare revenue losses in 2021 could be around $(1.8) – $(2.0)B from the plan.
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/24
+
+VISUALS:
+• Possibly bullet points or a simple chart of 2020 vs. 2021 deltas
+
+[SLIDE 28]
+LAYOUT: Standard title + content
+TITLE: "Contents"
+
+CONTENT:
+• Fare and toll revenue methodology
+• Non-fare revenue methodology
+• Additional operating expense methodology
+• Operating gap
+• Impact of filling the gap
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only)
+
+[SLIDE 29]
+LAYOUT: Standard title + content
+TITLE: "Methodology for initial estimate of additional operating expenses"
+
+CONTENT:
+• Two approaches: Top-down vs. Bottom-up.
+– Top-down: Identified overall operating expenses in the 2020 MTA budget that would be impacted by increased public health measures (~6% increase), referencing Hong Kong MTR financials during SARS.
+– Bottom-up: Start with existing MTA estimate for COVID-19 expenses; add further possible items (cleaning, PPE, etc.).
+• Estimated range: $0.4–0.5B (top-down) vs. $0.7–0.8B (bottom-up).
+• Excludes new capex or further service changes.
+• “(4/28/20) Please see disclaimer on page 3. …”
+• Current as of 4/17
+
+VISUALS:
+• Possibly a bullet or box summary
+
+[SLIDE 30]
+LAYOUT: Standard title + content
+TITLE: "Incremental operating expenses may increase $0.7-$0.8B in 2020"
+
+CONTENT:
+• Two tables or bullet breakdown: “Ongoing,” “Expansion,” “New,” across quarters Q1–Q4 for both a lower range ($665M total) and a higher range ($777M total).
+• Activities described:
+– Ongoing: E.g., existing temperature testing, cleaning, PPE.
+– Expansion: Additional temperature testing, some COVID-19 tests, bigger police presence, etc.
+– New: e.g., daily cleaning of all vehicles, etc.
+
+• “(4/28/20) Please see disclaimer on page 3.”
+• Current as of 4/22 (stated “Preliminary”)
+
+VISUALS:
+• Tables with Q1, Q2, Q3, Q4 columns, showing the breakdown of costs by category
+
+[SLIDE 31]
+LAYOUT: Standard title + content
+TITLE: "Contents"
+
+CONTENT:
+• Fare and toll revenue methodology
+• Non-fare revenue methodology
+• Additional operating expense methodology
+• Operating gap
+• Impact of filling the gap
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only)
+
+[SLIDE 32]
+LAYOUT: Standard title + content
+TITLE: "Summary of financial impacts across revenue streams for 2020"
+
+CONTENT:
+• 2020 Estimates, Preliminary, $ billions:
+– Fare revenue: (~3.9) to (4.9)
+– Toll revenue: (~0.8) to (1.0)
+– Non-fare revenue: (~1.6) to (1.8) (Note that non-fare revenue loss doesn’t include reduced transfers from toll revenue)
+– Additional operating expenses: (0.7) to (0.8)
+– Total gap: (~7.0) to (8.5)
+– CARES: 3.8
+– Additional: (3.2) to (4.7)
+
+• “Critical to note about these estimates” bullets (fare, toll, and non-fare disclaimers).
+• “(4/28/20) Please see disclaimer on page 3.”
+• Current as of 4/17
+
+VISUALS:
+• A table summarizing the above bullets
+
+[SLIDE 33]
+LAYOUT: Standard title + content
+TITLE: "Preliminary summary of initial revenue estimates for out years"
+
+CONTENT:
+• 2020 and 2021 estimates: Preliminary.
+• Fare revenue losses: ~ (3.9) to (4.9) in 2020, (4.1) to (2.2) in 2021 depending on scenario.
+• Toll revenue, non-fare revenue, additional operating expenses also shown.
+• Concludes “Size of range 1.5 in 2020, 2.7 in 2021.”
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+• Current as of 4/24
+
+VISUALS:
+• Table with columns for 2020 vs. 2021, rows for fare/toll revenue, non-fare, additional expenses, total gap
+
+[SLIDE 34]
+LAYOUT: Standard title + content
+TITLE: "Contents"
+
+CONTENT:
+• Fare and toll revenue methodology
+• Non-fare revenue methodology
+• Additional operating expense methodology
+• Operating gap
+• Impact of filling the gap
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• None (text-only)
+
+[SLIDE 35]
+LAYOUT: Standard title + content
+TITLE: "Estimating potential economic impacts
+Possible effects of spending"
+
+CONTENT:
+• Four bullet rationale:
+
+The NYC metro area is an engine of the overall national economy (GDP ~$1.7 trillion).
+NY MTA is critical to making the NYC MSA economy possible, carrying ~8M people daily.
+MTA represents the bulk of losses in transit ridership/fare across the US (~40-50% of total).
+Spending on MTA can drive national economic impact.
+• Preliminary analysis suggests a $3.2–4.7B investment could have a $6.2–9.1B GDP impact and 75–109K jobs.
+• “(4/28/20) Please see disclaimer on page 3.”
+• Current as of 4/17
+
+VISUALS:
+• Possibly text bullet points only
+
+[SLIDE 36]
+LAYOUT: Standard title + content
+TITLE: "MTA carries the most riders with majority of fare revenue"
+
+CONTENT:
+• Two pie charts or bar charts referencing ridership proportion among top 12 US transit agencies and fare revenue proportion among top 12 US transit agencies, with MTA ~57% ridership share, ~56% fare revenue share.
+• References CTA, LA Metro, MBTA, WMATA, NJ Transit, etc.
+• Sources: National Transit Database (NTD).
+• Key bullet: “Assuming similar % declines across systems, these proportions also represent the portion of total fare losses.”
+
+• Note: (4/28/20) Standard Disclaimer (previously noted).
+
+VISUALS:
+• Two charts: one for Ridership share, one for Fare revenue share
+
+[SLIDE 37]
+LAYOUT: Standard title + content
+TITLE: "Replacing lost operating funds may create up to $9.1B in GDP impact and 109K jobs"
+
+CONTENT:
+• A table illustrating the direct vs. total value-add (using BEA multipliers) for $3.2B to $4.6B in operating funds.
+• Bullet points:
+– Direct effect translates to $1.9–2.8B in GDP, 32–46K jobs.
+– Indirect and induced effects could bring total GDP impact to $6.2–9.1B and 75–109K jobs.
+• Sources: Bureau of Economic Analysis
+• “(4/28/20) Please see disclaimer on page 3.”
+
+VISUALS:
+• Possibly a small chart or table indicating “Earlier containment scenario → ~$3.2B replaced → $6.2B total GDP impact” etc.
+
+VISUALS:
+• Line chart with multiple lines (heavy rail, bus, light rail, commuter rail, unemployment rate)
+• No tables in this slide
+
+# STYLE NOTES
+- All titles preserved exactly as shown
+- Layouts specified in detail
+- Visual elements described thoroughly
+- Tables and nested elements clearly structured
+- Metrics and data points highlighted
+
+# END TEMPLATE 

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "project_id": "NIL",
+    "client": "MUFG",
+    "industry": "Banking",
+    "sub_industry": "Corporate and investment banking",
+    "region": "APAC",
+    "engagement_type": "L&D",
+    "project_phase": "Discovery, ideation, initiatives",
+    "timeline": {
+      "start": "2025-05",
+      "end": "2027-07"
+    }
+  },
+  "context": {
+    "client_situation": "MUFG wants to increase revenue and increase bankers' knowledge",
+    "why_now": "New CEO",
+    "previous_work": "Have done workshops but need more learning by doing"
+  },
+  "research": {
+    "methods": [
+      "L&D calls, Mercer expert"
+    ],
+    "key_findings": [
+      "Need to put into practice wallet sizing, role of MUFG banker, product knowledge, macro trends, knowing client and how macro affect them"
+    ],
+    "data_sources": [
+      "nil"
+    ],
+    "limitations": [
+      "2 years timeline for training plan"
+    ],
+    "assumptions": [
+      "nil"
+    ]
+  },
+  "objectives": {
+    "primary_goal": "To develop a training plan for CIB bankers in collaboration with MUFG. For the first meeting please keep it more exploratory",
+    "success_metrics": [
+      "Increase revenue",
+      "Increase retention knowledge"
+    ],
+    "stakeholders": [
+      "Manoj (Sales head)",
+      "Jeslyn (HR head)"
+    ],
+    "constraints": [],
+    "dependencies": []
+  },
+  "additional": {
+    "team_context": {
+      "team_size": "2",
+      "location": "Singapore",
+      "client_team": "Light"
+    },
+    "special_requirements": []
+  }
+}
